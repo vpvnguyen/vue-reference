@@ -1,4 +1,5 @@
-# Vue Training
+# vue-reference
 
-- Learning the basics of Vue using Vue Mastery course.
-- https://www.vuemastery.com/courses/intro-to-vue-js/
+## vue-apps 
+- Vue CLI isnt compatible with yarn pnp; therefore is not included in yarn workspaces and is a standalone package
+

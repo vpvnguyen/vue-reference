@@ -4,6 +4,6 @@
   "packageManager": "yarn@4.6.0",
   "workspaces": [
     "apps/*",
-    "courses/*"  
+    "courses/**"
   ]
 }
